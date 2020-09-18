@@ -15,15 +15,15 @@ O líder técnico é alguém com as seguintes atribuições:
 - Mapear as dependências com outras soluções e outros times. 
 - Mapear os principais riscos para entrega e informar aos interessados. 
 - Elaborar um planejamento com entregáveis bem definidos a partir da proposta da solução. 
-- Orientar o time durante a execução das tarefas e resolver impedimentos. 
+- Orientar o time durante a execução das tarefas e remover os impedimentos. 
 - Assegurar a qualidade técnica dos entregáveis. 
 - Ser o porta voz do time para tratar de assuntos técnicos com outros times, com o nível executivo ou com clientes.
 
-O número de atribuições pode parecer alto e, realmente é. A primeira consequência disso é que o tempo gasto com a base de código cai vertiginosamente. O líder técnico iniciante que não compreende isso pode sofrer e atrapalhar o rendimento do time como um todo. 
+O número de atribuições pode parecer alto e realmente é. A primeira consequência disso é que o tempo gasto com a base de código cai vertiginosamente. O líder técnico iniciante que não compreende isso pode sofrer e atrapalhar o rendimento do time como um todo. 
 
 Patrick Kua, autor conhecido neste tema, popularizou que os líderes técnicos gastam apenas 30% do seu tempo no código. Na minha experiência, esse número pode variar bastante dependendo de vários fatores. Mas na essência, Patrick tem razão, o seu tempo escrevendo código fonte será reduzido. Se você é um aspirante a líder técnico, aqui vem um momento de reflexão. É isso que você quer?
 
-Além da capacidade de escrever código fonte, o líder técnico precisa de outras habilidades de liderança. 
+Além da capacidade de escrever código fonte, o líder técnico precisa de outras habilidades. Seguem abaixo as habilidades que eu considero mais importantes:
 
 - Expertise técnica: tem experiência na carreira escrevendo código fonte em diferentes tipos de projetos. Tem conhecimento de padrões e boas práticas de desenvolvimento. Continua escrevendo código fonte, mesmo que seja em parte do tempo.
 - Arquitetura: sabe como propor a arquitetura de uma solução, consegue avaliar o trade-off entre os componentes e tomar a melhor decisão para a empresa considerando os requisitos de negócio e as restrições de custo, tempo, conhecimento do time, etc.
