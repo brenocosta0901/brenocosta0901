@@ -22,7 +22,7 @@ O líder técnico é alguém com as seguintes atribuições:
 
 O número de atribuições pode parecer alto e realmente é. A primeira consequência disso é que o tempo gasto com a base de código cai vertiginosamente. O líder técnico iniciante que não compreende isso pode sofrer e atrapalhar o rendimento do time como um todo. 
 
-diz que os líderes técnicos gastam apenas 30% do seu tempo no código. Na minha experiência, esse número pode variar bastante dependendo de vários fatores. Mas na essência, Patrick tem razão, o seu tempo escrevendo código fonte será reduzido. Se você é um aspirante a líder técnico, aqui vem um momento de reflexão. É isso que você quer?
+Patrick Kua, autor conhecido deste tema, diz que os líderes técnicos devem gastar no mínimo 30% do seu tempo no código. Na minha experiência, esse número pode variar bastante dependendo de vários fatores. Mas na essência, Patrick tem razão, o seu tempo escrevendo código fonte será reduzido. Se você é um aspirante a líder técnico, aqui vem um momento de reflexão. É isso que você quer?
 
 Além da capacidade de escrever código fonte, o líder técnico precisa de outras habilidades. Seguem abaixo as habilidades que eu considero mais importantes:
 
