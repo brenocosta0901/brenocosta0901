@@ -22,7 +22,7 @@ O líder técnico é alguém com as seguintes atribuições:
 
 O número de atribuições pode parecer alto e realmente é. A primeira consequência disso é que o tempo gasto com a base de código cai vertiginosamente. O líder técnico iniciante que não compreende isso pode sofrer e atrapalhar o rendimento do time como um todo. 
 
-Patrick Kua, autor conhecido neste tema, diz que os líderes técnicos gastam apenas 30% do seu tempo no código. Na minha experiência, esse número pode variar bastante dependendo de vários fatores. Mas na essência, Patrick tem razão, o seu tempo escrevendo código fonte será reduzido. Se você é um aspirante a líder técnico, aqui vem um momento de reflexão. É isso que você quer?
+diz que os líderes técnicos gastam apenas 30% do seu tempo no código. Na minha experiência, esse número pode variar bastante dependendo de vários fatores. Mas na essência, Patrick tem razão, o seu tempo escrevendo código fonte será reduzido. Se você é um aspirante a líder técnico, aqui vem um momento de reflexão. É isso que você quer?
 
 Além da capacidade de escrever código fonte, o líder técnico precisa de outras habilidades. Seguem abaixo as habilidades que eu considero mais importantes:
 
@@ -39,6 +39,8 @@ Por exemplo, um líder técnico que passa todo o tempo com a cabeça baixa escre
 Por outro lado, um líder técnico que não passa tipo escrevendo código pode ficar com seu conhecimento defasado e pode perder o contato com a base de código e não conseguir mais contribuir com o time. 
 
 O líder técnico precisa participar de várias reuniões para evangelizar outros times, para participar de discussões de projeto com um stakeholder de negócio ou para conversar com outros líderes técnicos. As reuniões são multiplicadas após mudar seu papel para liderança.
+
+Um time bem equilibrado possui um trio que faz a roda girar: líder técnico é responsável pela parte técnica, product owner é responsável pelo produto e o gestor de área responsável pelas pessoas. Um time equilibrado possui as três funções sendo exercidas de modo pleno. Por isso o líder técnico é tão importante.
 
 ## Referências
 
