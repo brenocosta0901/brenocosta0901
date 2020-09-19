@@ -1,4 +1,4 @@
-# Liderança Técnica
+# Tech Lead
 
 O papel do líder técnico não possui uma definição muito clara na escassa literatura que existe sobre o tema. As habilidades exigidas e as responsabilidades atribuídas podem variar consideravelmente de empresa para empresa, ou até, de time para time dentro da mesma empresa.
 
