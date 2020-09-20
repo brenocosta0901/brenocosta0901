@@ -36,11 +36,9 @@ O maior erro que o líder técnico iniciante pode cometer é não compreender as
 
 Um líder técnico que passa todo o tempo com a cabeça baixa escrevendo código será um problema para o time. As pessoas trabalhando com ele vão ficar sem direção e podem tomar decisões erradas que afetam o andamento dos projetos no longo prazo.
 
-Por outro lado, um líder técnico que não passa tempo escrevendo código pode perder o contato com a base de código e não conseguir mais contribuir nas discussões com o time. 
+Por outro lado, um líder técnico que não passa tempo escrevendo código pode perder o contato com a base de código e não conseguir mais contribuir nas discussões com o time. Por isso é tão importante entender como exercer bem o novo papel.
 
-O líder técnico precisa participar de várias reuniões para evangelizar outros times, para participar de discussões de projeto com um stakeholder de negócio ou para conversar com outros líderes técnicos. As reuniões são multiplicadas após mudar seu papel para liderança.
-
-Um time bem equilibrado possui um trio que faz a roda girar: líder técnico é responsável pela parte técnica, product owner é responsável pelo produto e o gestor de área responsável pelas pessoas. Um time equilibrado possui as três funções sendo exercidas de modo pleno. Por isso o líder técnico é tão importante.
+Um time equilibrado possui um trio que faz a roda girar: o líder técnico é responsável pela parte técnica, o product owner é responsável pelo produto e o gestor de área responsável pelas pessoas. Um time equilibrado possui as três funções sendo exercidas de modo pleno. Por isso o líder técnico é tão importante.
 
 ## Referências
 
