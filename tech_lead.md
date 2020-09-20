@@ -26,17 +26,17 @@ Patrick Kua, autor conhecido deste tema, diz que os líderes técnicos devem gas
 
 Além da capacidade de escrever código fonte, o líder técnico precisa de outras habilidades. Seguem abaixo as habilidades que eu considero mais importantes:
 
-1. Comunicação: é alguém que consegue formular as ideias de uma maneira lógica, consegue expô-las para outras pessoas do seu time ou de fora. Sabe ouvir como ninguém, presta atenção nos detalhes das conversas e está sempre atento para obter informações que serão úteis para o seu time.
-2. Programação: tem experiência na carreira escrevendo código fonte em diferentes tipos de projetos. Tem conhecimento de padrões e boas práticas de desenvolvimento. O líder técnico continua escrevendo código fonte, mesmo que seja em parte do tempo.
-3. Arquitetura: sabe como propor a arquitetura de uma solução, consegue avaliar o trade-off entre os componentes e tomar a melhor decisão para a empresa considerando os requisitos de negócio e as restrições de custo, tempo, conhecimento do time, etc.
-4. Gestão de projetos: consegue definir os entregáveis da solução em um nível macro e sabe como quebrar em tarefas menores com o intuito de distribuir o trabalho para o time. Acompanha a execução das tarefas e corrige o rumo das coisas, quando necessário, adaptando-se às mudanças de capacity, escopo e/ou prazo.
-5. Liderança: consegue lidar bem com as pessoas, sendo respeitoso e sempre pronto para servir. A autoridade é obtida com o serviço às pessoas. Consegue influenciar positivamente e inspirar pelo exemplo. Proatividade é ownership são essenciais para fazer as coisas avançarem.
+1. Programação: tem experiência na carreira escrevendo código fonte em diferentes tipos de projetos. Tem conhecimento de padrões e boas práticas de desenvolvimento. Consegue auxiliar o time a resolver desafios e contribui nas discussões sobre o código.
+2. Arquitetura: sabe como propor a arquitetura de uma solução, consegue avaliar o trade-off entre os componentes e tomar a melhor decisão para a empresa considerando os requisitos de negócio e as restrições de custo, tempo, conhecimento do time, etc.
+3. Gestão de projetos: consegue definir os entregáveis da solução em um nível macro e sabe como quebrar os entregáveis em tarefas menores com o intuito de distribuir o trabalho para o time. Acompanha a execução das tarefas e corrige o rumo das coisas, quando necessário, adaptando-se às mudanças de capacity, escopo e/ou prazo.
+4. Liderança: consegue lidar bem com as pessoas, sendo respeitoso e sempre pronto para servir. A autoridade é obtida com o serviço às pessoas. Consegue influenciar positivamente e inspirar pelo exemplo. Possui proatividade e ownership para fazer as coisas avançarem.
+5. Comunicação: é alguém que consegue formular as ideias de uma maneira lógica, consegue expô-las para outras pessoas do seu time ou de fora. Sabe ouvir como ninguém, presta atenção nos detalhes das conversas e está sempre atento para obter informações que serão úteis para o seu time.
 
 O maior erro que o líder técnico iniciante pode cometer é não compreender as mudanças necessárias que ele tem que fazer para exercer bem essa função.
 
-Por exemplo, um líder técnico que passa todo o tempo com a cabeça baixa escrevendo código será um problema para o time. As pessoas trabalhando com ele vão ficar sem direção e podem tomar decisões erradas que podem afetar o andamento dos projetos ou podem simplesmente não tomar nenhuma decisão. 
+Um líder técnico que passa todo o tempo com a cabeça baixa escrevendo código será um problema para o time. As pessoas trabalhando com ele vão ficar sem direção e podem tomar decisões erradas que afetam o andamento dos projetos no longo prazo.
 
-Por outro lado, um líder técnico que não passa tipo escrevendo código pode ficar com seu conhecimento defasado e pode perder o contato com a base de código e não conseguir mais contribuir com o time. 
+Por outro lado, um líder técnico que não passa tempo escrevendo código pode perder o contato com a base de código e não conseguir mais contribuir nas discussões com o time. 
 
 O líder técnico precisa participar de várias reuniões para evangelizar outros times, para participar de discussões de projeto com um stakeholder de negócio ou para conversar com outros líderes técnicos. As reuniões são multiplicadas após mudar seu papel para liderança.
 
@@ -44,7 +44,8 @@ Um time bem equilibrado possui um trio que faz a roda girar: líder técnico é 
 
 ## Referências
 
-- https://www.amazon.com.br/Manager%60s-Path-Camille-Fournier/dp/1491973897
-- https://www.amazon.com.br/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X
-- https://www.thoughtworks.com/pt/talks/tech-lead-skills-for-developers
-- https://www.patkua.com/blog/the-definition-of-a-tech-lead/
+- [Manager's path: a guide for tech leaders navigating growth and change](https://www.amazon.com.br/Manager%60s-Path-Camille-Fournier/dp/1491973897) de Camille Fournier
+- [Talking with tech leads: from novices to practitioners](https://www.amazon.com.br/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X) de Patrick Kua
+- [Tech lead skills for developers](https://www.thoughtworks.com/pt/talks/tech-lead-skills-for-developers) de Patrick Kua
+- [The definition of a tech lead](https://www.patkua.com/blog/the-definition-of-a-tech-lead/) de Patrick Kua
+- [Canal do YouTube](https://www.youtube.com/c/TechLead) de um ex-tech lead do Google e Facebook
