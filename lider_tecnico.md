@@ -6,11 +6,11 @@ Há lugares onde o líder técnico é responsável apenas por orientar o time no
 
 O engenheiro que é alçado pela primeira vez à função pode encontrar dificuldades para desempenhar um bom papel, sobretudo aqueles que não tiveram a sorte de ter trabalhado com bons líderes técnicos durante a sua carreira. O principal motivo é que as atribuições e competências necessárias para um cargo de liderança mudam bastante em relação ao contribuidor individual.
 
-### Atribuições
+### Responsabilidades 
 
 O líder técnico é responsável por orientar o time técnico para que as entregas sejam realizadas com qualidade.
 
-Para conseguir isso, existem algumas responsabilidades inerentes:
+Para conseguir isso, existem algumas atribuições inerentes:
 
 - Conversar com os stakeholders de negócio, compreender os problemas e requisitos para resolvê-los. 
 - Conduzir as discussões técnicas com o time para traduzir os requisitos de negócio  em aspectos técnicos. 
