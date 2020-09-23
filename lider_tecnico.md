@@ -55,4 +55,4 @@ O líder técnico coopera com seus pares para que o time consiga trazer resultad
 - [Tech lead skills for developers](https://www.thoughtworks.com/pt/talks/tech-lead-skills-for-developers) de Patrick Kua
 - [The definition of a tech lead](https://www.patkua.com/blog/the-definition-of-a-tech-lead/) de Patrick Kua
 - [Canal do YouTube](https://www.youtube.com/c/TechLead) de um ex-tech lead do Google e Facebook
-- [Webflow Tech Lead Guideline] (https://github.com/webflow/leadership/blob/master/tech_lead.md) 
+- [The Webflow Tech Lead Guideline](https://github.com/webflow/leadership/blob/master/tech_lead.md)
